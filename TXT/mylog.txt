@@ -1,1 +1,5 @@
-
+ZCZC W00 150 L02 Week 0 online classroom
+ZCZC W00 10 L03 GitHub setup for os241
+ZCZC W00 7 L05 QUIZ 0
+ZCZC W00 60 L10 Assignment #00
+ZCZC W00 10 L41 TXT/mylog.txt creation
