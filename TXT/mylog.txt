@@ -3,3 +3,7 @@ ZCZC W00 10 L03 GitHub setup for os241
 ZCZC W00 7 L05 QUIZ 0
 ZCZC W00 60 L10 Assignment #00
 ZCZC W00 10 L41 TXT/mylog.txt creation
+ZCZC W01 100 L02 Week 1 class
+ZCZC W01 5 L05 QUIZ 1
+ZCZC W01 180 L11 Assignment #01
+ZCZC W01 5 L41 mylog.txt update  
