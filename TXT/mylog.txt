@@ -7,3 +7,8 @@ ZCZC W01 100 L02 Week 1 class
 ZCZC W01 5 L05 QUIZ 1
 ZCZC W01 180 L11 Assignment #01
 ZCZC W01 5 L41 mylog.txt update  
+ZCZC W02 150 L02 Week 2 class
+ZCZC W02 5 L05 QUIZ 2
+ZCZC W02 120 L12 Week 2 task
+ZCZC W02 2 L41 mylog.txt update
+
