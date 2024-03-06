@@ -11,4 +11,10 @@ ZCZC W02 150 L02 Week 2 class
 ZCZC W02 5 L05 QUIZ 2
 ZCZC W02 120 L12 Week 2 task
 ZCZC W02 2 L41 mylog.txt update
-
+ZCZC W03 180 L13 Assignment#03 the usual weekly task
+ZCZC W03 12 L41 TXT/mylog.txt related
+ZCZC W03 100 L02 CLASSROOM/ZOOM related
+ZCZC W03 10 L03 Github Related
+ZCZC W04 120 L14 Assignment#04
+ZCZC W04 10 L03 Github Related
+ZCZC W04 300 L62 Virtual Debian Guest got corrupt after I power outage
