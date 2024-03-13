@@ -18,3 +18,8 @@ ZCZC W03 10 L03 Github Related
 ZCZC W04 120 L14 Assignment#04
 ZCZC W04 10 L03 Github Related
 ZCZC W04 300 L62 Virtual Debian Guest got corrupt after I power outage
+ZCZC W05 120 L15 Assignment#05
+ZCZC W05 18 L03 Github Related
+ZCZC W05 10 L41 TXT/mylog.txt edit
+ZCZC W05 120 L02 Weekly class
+

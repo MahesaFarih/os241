@@ -19,3 +19,8 @@ Documentation of Oracle VM VirtualBox virtual storage of how it works and genera
 ## Week 4
 1. Memory Management in Operating System -- https://www.geeksforgeeks.org/memory-management-in-operating-system/
 This article explains about memory management in an OS with detailed explanation on each points and a well detailed illustration for dummies to understand.
+
+## Week 5
+1. Virtual Memory in Operating System -- https://www.geeksforgeeks.org/virtual-memory-in-operating-system/ 
+This article explains about virtual memory in an OS of what is it, how it works and different kinds of processes involved in it.
+
