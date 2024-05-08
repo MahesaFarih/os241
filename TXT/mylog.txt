@@ -34,4 +34,9 @@ ZCZC W08 480 L18 Assignment#08
 ZCZC W08 18 L03 Github Related
 ZCZC W08 10 L41 TXT/mylog.txt edit
 ZCZC W08 240 L02 Weekly class
-ZCZC W09 5 L05 QUIZ 8
+ZCZC W08 5 L05 QUIZ 8
+ZCZC W09 480 L19 Assignment#09
+ZCZC W09 18 L03 Github Related
+ZCZC W09 10 L41 TXT/mylog.txt edit
+ZCZC W09 240 L02 Weekly class
+ZCZC W09 5 L05 QUIZ 9

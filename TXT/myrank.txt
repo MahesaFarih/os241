@@ -11,5 +11,7 @@ ZCZC W06 arditheusIH
 ZCZC W06 LesmanaArya
 ZCZC W07 arditheusIH
 ZCZC W07 LesmanaArya
-ZCZC W07 arditheusIH
-ZCZC W07 LesmanaArya
+ZCZC W08 arditheusIH
+ZCZC W08 LesmanaArya
+ZCZC W09 arditheusIH
+ZCZC W09 LesmanaArya
