@@ -15,3 +15,5 @@ ZCZC W08 arditheusIH
 ZCZC W08 LesmanaArya
 ZCZC W09 arditheusIH
 ZCZC W09 LesmanaArya
+ZCZC W10 arditheusIH
+ZCZC W10 LesmanaArya
