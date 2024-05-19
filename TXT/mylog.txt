@@ -40,3 +40,7 @@ ZCZC W09 18 L03 Github Related
 ZCZC W09 10 L41 TXT/mylog.txt edit
 ZCZC W09 240 L02 Weekly class
 ZCZC W09 5 L05 QUIZ 9
+ZCZC W10 360 L20 Assignment#10
+ZCZC W10 17 L03 Github Related
+ZCZC W10 10 L41 TXT/mylog.txt edit
+ZCZC W10 6 L05 QUIZ 10
